@@ -1,0 +1,12 @@
+{
+  "spreadsheet": {
+    "sheetA": {
+      "header": { "columns": [ { "v": "Column A" } ] },
+      "data": { "rows": [ "data" ] }
+    }
+  },
+  "defaultStyle": {
+    "header": { "fill": { "fgColor": { "rgb": "aa00ff" } } },
+    "data": { "fill": { "fgColor": { "rgb": "ffaa00" } } }
+  }
+}
